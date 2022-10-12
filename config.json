@@ -1,0 +1,11 @@
+{
+
+	"cache_directory" : "E:/VRCCache/",
+
+	"disableRichPresence" : true,
+
+	"cache_size" : 80,
+
+	"cache_expiry_delay" : 60
+
+}
